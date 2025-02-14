@@ -1,0 +1,20 @@
+# ninja log v6
+7	826	7610575308343384	CMakeFiles/Vontobel.dir/Combination.cpp.obj	50f62eb1b894f54f
+20	403	7610629764817927	build.ninja	83c369d4ac2a7bf1
+6	1470	7610604936700917	CMakeFiles/Vontobel.dir/Vontobel.cpp.obj	1874c46ea4a8ac42
+7	1182	7608951979054264	CMakeFiles/Vontobel.dir/Matrix.cpp.obj	a3cf44d154fe0acd
+36	1536	7610597917401586	CMakeFiles/Vontobel.dir/main.cpp.obj	d3415c54bcfe9506
+68	1978	7599930830151159	CMakeFiles/Vontobel.dir/example.cpp.obj	814cf3dce1022c27
+1471	2880	7610604951344056	Vontobel.exe	d97ec68c6bfcd30d
+10	3146	7610634231032262	CMakeFiles/Vontobel.dir/Vontobel.cpp.obj	1874c46ea4a8ac42
+3147	4960	7610634262413304	Vontobel.exe	d97ec68c6bfcd30d
+28	2476	7610634462961230	CMakeFiles/Vontobel.dir/Vontobel.cpp.obj	1874c46ea4a8ac42
+2477	4732	7610634487458735	Vontobel.exe	d97ec68c6bfcd30d
+38	2499	7610634627974575	CMakeFiles/Vontobel.dir/Vontobel.cpp.obj	1874c46ea4a8ac42
+2500	4209	7610634652601227	Vontobel.exe	d97ec68c6bfcd30d
+26	1828	7610634862603731	CMakeFiles/Vontobel.dir/main.cpp.obj	d3415c54bcfe9506
+1830	3849	7610634880640985	Vontobel.exe	d97ec68c6bfcd30d
+21	1226	7610635697853052	CMakeFiles/Vontobel.dir/main.cpp.obj	d3415c54bcfe9506
+1227	2880	7610635709905779	Vontobel.exe	d97ec68c6bfcd30d
+62	1837	7612017434823050	CMakeFiles/Vontobel.dir/main.cpp.obj	d3415c54bcfe9506
+1838	3707	7612017452578422	Vontobel.exe	d97ec68c6bfcd30d
